@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.zomato.com/bangalore/freshmenu-richmond-road"
+  },
+  {
+    "id": 2,
+    "url": "https://www.zomato.com/bangalore/kfc-brigade-road-bangalore"
+  },
+  {
+    "id": 3,
+    "url": "https://www.zomato.com/bangalore/juice-junction-st-marks-road"
+  },
+  {
+    "id": 4,
+    "url": "https://www.zomato.com/bangalore/burger-king-commercial-street"
+  },
+  {
+    "id": 5,
+    "url": "https://www.zomato.com/bangalore/rnr-biryani-taste-of-1953-1-jayanagar-bangalore"
+  },
+  {
+    "id": 6,
+    "url": "https://www.zomato.com/bangalore/manis-dum-biryani-ulsoor"
+  },
+  {
+    "id": 7,
+    "url": "https://www.zomato.com/bangalore/nandhana-palace-rajajinagar"
+  },
+  {
+    "id": 8,
+    "url": "https://www.zomato.com/bangalore/mcdonalds-mg-road"
+  },
+  {
+    "id": 9,
+    "url": "https://www.zomato.com/bangalore/idc-kitchen-richmond-road-bangalore"
+  },
+  {
+    "id": 10,
+    "url": "https://www.zomato.com/bangalore/chalukya-samrat-cafe-since-1977-st-marks-road-bangalore"
+  },
+  {
+    "id": 11,
+    "url": "https://www.zomato.com/bangalore/polar-bear-1-basavanagudi"
+  },
+  {
+    "id": 12,
+    "url": "https://www.zomato.com/bangalore/sharief-bhai-biryani-frazer-town-bangalore"
+  },
+  {
+    "id": 13,
+    "url": "https://www.zomato.com/bangalore/nandhini-deluxe-st-marks-road-bangalore"
+  },
+  {
+    "id": 14,
+    "url": "https://www.zomato.com/bangalore/pizza-hut-shanti-nagar"
+  },
+  {
+    "id": 15,
+    "url": "https://www.zomato.com/bangalore/empire-restaurant-since-1966-shivajinagar-bangalore"
+  },
+  {
+    "id": 16,
+    "url": "https://www.zomato.com/bangalore/kanti-sweets-since-1957-brigade-road-bangalore"
+  },
+  {
+    "id": 17,
+    "url": "https://www.zomato.com/bangalore/onesta-indiranagar-bangalore"
+  },
+  {
+    "id": 18,
+    "url": "https://www.zomato.com/bangalore/thalassery-restaurant-koramangala-5th-block-bangalore"
+  },
+  {
+    "id": 19,
+    "url": "https://www.zomato.com/bangalore/meghana-foods-residency-road"
+  },
+  {
+    "id": 20,
+    "url": "https://www.zomato.com/bangalore/truffles-2-st-marks-road"
+  },
+  {
+    "id": 21,
+    "url": "https://www.zomato.com/bangalore/dominos-pizza-shanti-nagar"
+  },
+  {
+    "id": 22,
+    "url": "https://www.zomato.com/bangalore/paakashala-mg-road-bangalore"
+  },
+  {
+    "id": 23,
+    "url": "https://www.zomato.com/bangalore/corner-house-ice-creams-residency-road-bangalore"
+  },
+  {
+    "id": 24,
+    "url": "https://www.zomato.com/bangalore/anand-sweets-and-savouries-commercial-street-bangalore"
+  },
+  {
+    "id": 25,
+    "url": "https://www.zomato.com/bangalore/five-star-chicken-richmond-road-bangalore"
+  },
+  {
+    "id": 26,
+    "url": "https://www.zomato.com/bangalore/nagarjuna-since-1984-residency-road-bangalore"
+  },
+  {
+    "id": 27,
+    "url": "https://www.zomato.com/bangalore/la-pinoz-pizza-frazer-town-bangalore"
+  },
+  {
+    "id": 28,
+    "url": "https://www.zomato.com/bangalore/big-bowl-hosur-road-bangalore"
+  },
+  {
+    "id": 29,
+    "url": "https://www.zomato.com/bangalore/imperial-restaurant-since-1954-residency-road-bangalore"
+  },
+  {
+    "id": 30,
+    "url": "https://www.zomato.com/bangalore/sri-udupi-food-hub-majestic-bangalore"
+  },
+  {
+    "id": 31,
+    "url": "https://www.zomato.com/bangalore/daily-kitchen-homely-meals-langford-town-bangalore"
+  },
+  {
+    "id": 32,
+    "url": "https://www.zomato.com/bangalore/andhra-gunpowder-seshadripuram-bangalore"
+  },
+  {
+    "id": 33,
+    "url": "https://www.zomato.com/bangalore/easybites-by-empire-brigade-road-bangalore"
+  },
+  {
+    "id": 34,
+    "url": "https://www.zomato.com/bangalore/kannur-food-point-btm"
+  },
+  {
+    "id": 35,
+    "url": "https://www.zomato.com/bangalore/box8-desi-meals-shanti-nagar-bangalore"
+  },
+  {
+    "id": 36,
+    "url": "https://www.zomato.com/bangalore/imperio-restaurant-koramangala-5th-block-bangalore"
+  },
+  {
+    "id": 37,
+    "url": "https://www.zomato.com/bangalore/subway-lavelle-road"
+  },
+  {
+    "id": 38,
+    "url": "https://www.zomato.com/bangalore/beijing-bites-richmond-road"
+  },
+  {
+    "id": 39,
+    "url": "https://www.zomato.com/bangalore/chinese-wok-malleshwaram-bangalore"
+  },
+  {
+    "id": 40,
+    "url": "https://www.zomato.com/bangalore/wendys-burgers-st-marks-road-bangalore"
+  },
+  {
+    "id": 41,
+    "url": "https://www.zomato.com/bangalore/namaste-malleshwaram-bangalore"
+  },
+  {
+    "id": 42,
+    "url": "https://www.zomato.com/bangalore/ambur-star-briyani-since-1890-indiranagar-bangalore"
+  },
+  {
+    "id": 43,
+    "url": "https://www.zomato.com/bangalore/dindigul-thalappakatti-mg-road-bangalore"
+  },
+  {
+    "id": 44,
+    "url": "https://www.zomato.com/bangalore/bakingo-vasanth-nagar-bangalore"
+  },
+  {
+    "id": 45,
+    "url": "https://www.zomato.com/bangalore/kabab-magic-richmond-town-bangalore"
+  },
+  {
+    "id": 46,
+    "url": "https://www.zomato.com/bangalore/vijayalakshmi-veg-frazer-town-bangalore"
+  },
+  {
+    "id": 47,
+    "url": "https://www.zomato.com/bangalore/roti-wala-com-homely-meals-thalis-indiranagar-bangalore"
+  },
+  {
+    "id": 48,
+    "url": "https://www.zomato.com/bangalore/leons-burgers-wings-koramangala-5th-block-bangalore"
+  },
+  {
+    "id": 49,
+    "url": "https://www.zomato.com/bangalore/al-daaz-btm-bangalore"
+  },
+  {
+    "id": 50,
+    "url": "https://www.zomato.com/bangalore/oven-story-pizza-standout-toppings-shanti-nagar-bangalore"
+  },
+  {
+    "id": 51,
+    "url": "https://www.zomato.com/bangalore/cakezone-patisserie-hosur-road-bangalore"
+  },
+  {
+    "id": 52,
+    "url": "https://www.zomato.com/bangalore/go-pizza-church-street-bangalore"
+  },
+  {
+    "id": 53,
+    "url": "https://www.zomato.com/bangalore/rolls-on-wheels-shawarma-wraps-cunningham-road-bangalore"
+  },
+  {
+    "id": 54,
+    "url": "https://www.zomato.com/bangalore/the-belgian-waffle-co-seshadripuram-bangalore"
+  },
+  {
+    "id": 55,
+    "url": "https://www.zomato.com/bangalore/haldirams-restaurant-majestic-bangalore"
+  },
+  {
+    "id": 56,
+    "url": "https://www.zomato.com/bangalore/kannur-food-kitchen-btm-bangalore"
+  },
+  {
+    "id": 57,
+    "url": "https://www.zomato.com/bangalore/wow-momo-church-street-bangalore"
+  },
+  {
+    "id": 58,
+    "url": "https://www.zomato.com/bangalore/chickpet-donne-biryani-house-since-1975-jayanagar-bangalore"
+  },
+  {
+    "id": 59,
+    "url": "https://www.zomato.com/bangalore/al-bek-malleshwaram"
+  },
+  {
+    "id": 60,
+    "url": "https://www.zomato.com/bangalore/kapoors-cafe-jayanagar-bangalore"
+  },
+  {
+    "id": 61,
+    "url": "https://www.zomato.com/bangalore/biggies-burger-church-street-bangalore"
+  },
+  {
+    "id": 62,
+    "url": "https://www.zomato.com/bangalore/faasos-wraps-rolls-shawarma-shanti-nagar-bangalore"
+  },
+  {
+    "id": 63,
+    "url": "https://www.zomato.com/bangalore/taco-bell-brigade-road-bangalore"
+  },
+  {
+    "id": 64,
+    "url": "https://www.zomato.com/bangalore/narmada-chain-of-restaurants-koramangala-5th-block-bangalore"
+  },
+  {
+    "id": 65,
+    "url": "https://www.zomato.com/bangalore/sri-udupi-park-residency-road"
+  },
+  {
+    "id": 66,
+    "url": "https://www.zomato.com/bangalore/eatfit-vasanth-nagar-bangalore"
+  },
+  {
+    "id": 67,
+    "url": "https://www.zomato.com/bangalore/hyderabad-biryaani-house-since-2003-richmond-road-bangalore"
+  },
+  {
+    "id": 68,
+    "url": "https://www.zomato.com/bangalore/krishna-vaibhava-vijay-nagar-bangalore"
+  },
+  {
+    "id": 69,
+    "url": "https://www.zomato.com/bangalore/behrouz-biryani-shanti-nagar-bangalore"
+  },
+  {
+    "id": 70,
+    "url": "https://www.zomato.com/bangalore/new-udupi-grand-1-koramangala-8th-block-bangalore"
+  },
+  {
+    "id": 71,
+    "url": "https://www.zomato.com/bangalore/wow-china-church-street-bangalore"
+  },
+  {
+    "id": 72,
+    "url": "https://www.zomato.com/bangalore/aattutheeram-kerala-restaurant-koramangala-5th-block-bangalore"
+  },
+  {
+    "id": 73,
+    "url": "https://www.zomato.com/bangalore/om-agarwal-bhavan-basaveshwara-nagar-bangalore"
+  },
+  {
+    "id": 74,
+    "url": "https://www.zomato.com/bangalore/lunchbox-meals-and-thalis-shanti-nagar-bangalore"
+  },
+  {
+    "id": 75,
+    "url": "https://www.zomato.com/bangalore/donne-biryani-house-malleshwaram"
+  },
+  {
+    "id": 76,
+    "url": "https://www.zomato.com/bangalore/savi-sagar-malleshwaram-bangalore"
+  },
+  {
+    "id": 77,
+    "url": "https://www.zomato.com/bangalore/chowman-hosur-road-bangalore"
+  },
+  {
+    "id": 78,
+    "url": "https://www.zomato.com/bangalore/swathi-restaurant-rajajinagar-bangalore"
+  },
+  {
+    "id": 79,
+    "url": "https://www.zomato.com/bangalore/hotel-aditya-mahalakshmipuram-rajajinagar-bangalore"
+  },
+  {
+    "id": 80,
+    "url": "https://www.zomato.com/bangalore/smoor-lavelle-road-bangalore"
+  },
+  {
+    "id": 81,
+    "url": "https://www.zomato.com/bangalore/leancrust-pizza-thincrust-experts-langford-town-bangalore"
+  },
+  {
+    "id": 82,
+    "url": "https://www.zomato.com/bangalore/royal-biryani-kitchen-btm-bangalore"
+  },
+  {
+    "id": 83,
+    "url": "https://www.zomato.com/bangalore/chickpet-donne-biryani-house-since-1975-koramangala-7th-block-bangalore"
+  },
+  {
+    "id": 84,
+    "url": "https://www.zomato.com/bangalore/puliyogare-point-basavanagudi"
+  },
+  {
+    "id": 85,
+    "url": "https://www.zomato.com/bangalore/apna-dhaba-basavanagudi-bangalore"
+  },
+  {
+    "id": 86,
+    "url": "https://www.zomato.com/bangalore/theobroma-lavelle-road-bangalore"
+  },
+  {
+    "id": 87,
+    "url": "https://www.zomato.com/bangalore/brothers-biriyani-basavanagudi-bangalore"
+  },
+  {
+    "id": 88,
+    "url": "https://www.zomato.com/bangalore/glen-s-bakehouse-lavelle-road-bangalore"
+  },
+  {
+    "id": 89,
+    "url": "https://www.zomato.com/bangalore/samosa-party-brigade-road-bangalore"
+  },
+  {
+    "id": 90,
+    "url": "https://www.zomato.com/bangalore/brahmins-thatte-idli-1-malleshwaram-bangalore"
+  },
+  {
+    "id": 91,
+    "url": "https://www.zomato.com/bangalore/nahdi-mandi-btm-bangalore"
+  },
+  {
+    "id": 92,
+    "url": "https://www.zomato.com/bangalore/sangam-sweets-since-1964-majestic-bangalore"
+  },
+  {
+    "id": 93,
+    "url": "https://www.zomato.com/bangalore/zaza-mughal-biryani-shanti-nagar-bangalore"
+  },
+  {
+    "id": 94,
+    "url": "https://www.zomato.com/bangalore/anjappar-brigade-road-bangalore"
+  },
+  {
+    "id": 95,
+    "url": "https://www.zomato.com/bangalore/natural-ice-cream-st-marks-road"
+  },
+  {
+    "id": 96,
+    "url": "https://www.zomato.com/bangalore/the-rameshwaram-cafe-3-indiranagar-bangalore"
+  },
+  {
+    "id": 97,
+    "url": "https://www.zomato.com/bangalore/royal-restaurant-shivajinagar"
+  },
+  {
+    "id": 98,
+    "url": "https://www.zomato.com/bangalore/chulha-chauki-da-dhaba-indiranagar-bangalore"
+  },
+  {
+    "id": 99,
+    "url": "https://www.zomato.com/bangalore/khichdi-bar-commercial-street-bangalore"
+  },
+  {
+    "id": 100,
+    "url": "https://www.zomato.com/bangalore/nic-ice-creams-frazer-town-bangalore"
+  },
+  {
+    "id": 101,
+    "url": "https://www.zomato.com/bangalore/asha-sweet-center-since-1951-basavanagudi-bangalore"
+  },
+  {
+    "id": 102,
+    "url": "https://www.zomato.com/bangalore/sri-vishnu-park-btm"
+  },
+  {
+    "id": 103,
+    "url": "https://www.zomato.com/bangalore/kuttanad-restaurant-koramangala-5th-block-bangalore"
+  },
+  {
+    "id": 104,
+    "url": "https://www.zomato.com/bangalore/namo-andhra-shivajinagar-bangalore"
+  },
+  {
+    "id": 105,
+    "url": "https://www.zomato.com/bangalore/desi-masala-1-majestic-bangalore"
+  },
+  {
+    "id": 106,
+    "url": "https://www.zomato.com/bangalore/hotel-n-g-t-non-veg-vijay-nagar-bangalore"
+  },
+  {
+    "id": 107,
+    "url": "https://www.zomato.com/bangalore/chai-point-church-street-bangalore"
+  },
+  {
+    "id": 108,
+    "url": "https://www.zomato.com/bangalore/mojo-pizza-2x-toppings-shanti-nagar-bangalore"
+  },
+  {
+    "id": 109,
+    "url": "https://www.zomato.com/bangalore/biryani-blues-church-street-bangalore"
+  },
+  {
+    "id": 110,
+    "url": "https://www.zomato.com/bangalore/goli-vada-pav-no-1-jayanagar-bangalore"
+  },
+  {
+    "id": 111,
+    "url": "https://www.zomato.com/bangalore/ammas-pastries-vasanth-nagar-bangalore"
+  },
+  {
+    "id": 112,
+    "url": "https://www.zomato.com/bangalore/india-sweet-house-2-malleshwaram-bangalore"
+  },
+  {
+    "id": 113,
+    "url": "https://www.zomato.com/bangalore/aromas-of-biryani-koramangala-4th-block-bangalore"
+  },
+  {
+    "id": 114,
+    "url": "https://www.zomato.com/bangalore/boba-bhai-koramangala-7th-block-bangalore"
+  },
+  {
+    "id": 115,
+    "url": "https://www.zomato.com/bangalore/abs-absolute-barbecues-koramangala-5th-block-bangalore"
+  },
+  {
+    "id": 116,
+    "url": "https://www.zomato.com/bangalore/paris-panini-gourmet-sandwiches-wraps-church-street-bangalore"
+  },
+  {
+    "id": 117,
+    "url": "https://www.zomato.com/bangalore/afghani-tandoori-hub-btm-bangalore"
+  }
+]

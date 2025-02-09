@@ -1,0 +1,474 @@
+[
+    {
+        "id": 1,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kamakshipalya"
+    },
+    {
+        "id": 2,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kanakapura-road"
+    },
+    {
+        "id": 3,
+        "url": "https://www.zomato.com/bangalore/delivery-in-anekal"
+    },
+    {
+        "id": 4,
+        "url": "https://www.zomato.com/bangalore/delivery-in-rammurthy-nagar"
+    },
+    {
+        "id": 5,
+        "url": "https://www.zomato.com/bangalore/delivery-in-hsr"
+    },
+    {
+        "id": 6,
+        "url": "https://www.zomato.com/bangalore/delivery-in-majestic"
+    },
+    {
+        "id": 7,
+        "url": "https://www.zomato.com/bangalore/delivery-in-hosur-road"
+    },
+    {
+        "id": 8,
+        "url": "https://www.zomato.com/bangalore/delivery-in-shivajinagar"
+    },
+    {
+        "id": 9,
+        "url": "https://www.zomato.com/bangalore/delivery-in-hebbal"
+    },
+    {
+        "id": 10,
+        "url": "https://www.zomato.com/bangalore/delivery-in-jalahalli"
+    },
+    {
+        "id": 11,
+        "url": "https://www.zomato.com/bangalore/delivery-in-attibele"
+    },
+    {
+        "id": 12,
+        "url": "https://www.zomato.com/bangalore/delivery-in-sahakara-nagar"
+    },
+    {
+        "id": 13,
+        "url": "https://www.zomato.com/bangalore/delivery-in-international-airport"
+    },
+    {
+        "id": 14,
+        "url": "https://www.zomato.com/bangalore/delivery-in-basavanagudi"
+    },
+    {
+        "id": 15,
+        "url": "https://www.zomato.com/bangalore/delivery-in-dasarahalli"
+    },
+    {
+        "id": 16,
+        "url": "https://www.zomato.com/bangalore/delivery-in-cv-raman-nagar"
+    },
+    {
+        "id": 17,
+        "url": "https://www.zomato.com/bangalore/delivery-in-sarjapur-road"
+    },
+    {
+        "id": 18,
+        "url": "https://www.zomato.com/bangalore/delivery-in-brookefield"
+    },
+    {
+        "id": 19,
+        "url": "https://www.zomato.com/bangalore/delivery-in-west"
+    },
+    {
+        "id": 20,
+        "url": "https://www.zomato.com/bangalore/delivery-in-nandini-layout"
+    },
+    {
+        "id": 21,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-1st-block"
+    },
+    {
+        "id": 22,
+        "url": "https://www.zomato.com/bangalore/delivery-in-jeevan-bhima-nagar"
+    },
+    {
+        "id": 23,
+        "url": "https://www.zomato.com/bangalore/delivery-in-aecs-layout"
+    },
+    {
+        "id": 24,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kadubeesanahalli"
+    },
+    {
+        "id": 25,
+        "url": "https://www.zomato.com/bangalore/delivery-in-varthur-main-road-whitefield"
+    },
+    {
+        "id": 26,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-2nd-block"
+    },
+    {
+        "id": 27,
+        "url": "https://www.zomato.com/bangalore/delivery-in-wilson-garden"
+    },
+    {
+        "id": 28,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-4th-block"
+    },
+    {
+        "id": 29,
+        "url": "https://www.zomato.com/bangalore/delivery-in-airport-road"
+    },
+    {
+        "id": 30,
+        "url": "https://www.zomato.com/bangalore/delivery-in-banaswadi"
+    },
+    {
+        "id": 31,
+        "url": "https://www.zomato.com/bangalore/delivery-in-nelamangala-town"
+    },
+    {
+        "id": 32,
+        "url": "https://www.zomato.com/bangalore/delivery-in-nagarbhavi"
+    },
+    {
+        "id": 33,
+        "url": "https://www.zomato.com/bangalore/delivery-in-mysore-road"
+    },
+    {
+        "id": 34,
+        "url": "https://www.zomato.com/bangalore/delivery-in-marathahalli"
+    },
+    {
+        "id": 35,
+        "url": "https://www.zomato.com/bangalore/delivery-in-peenya"
+    },
+    {
+        "id": 36,
+        "url": "https://www.zomato.com/bangalore/delivery-in-race-course-road"
+    },
+    {
+        "id": 37,
+        "url": "https://www.zomato.com/bangalore/delivery"
+    },
+    {
+        "id": 38,
+        "url": "https://www.zomato.com/bangalore/delivery-in-rajarajeshwari-nagar"
+    },
+    {
+        "id": 39,
+        "url": "https://www.zomato.com/bangalore/delivery-in-richmond-road"
+    },
+    {
+        "id": 40,
+        "url": "https://www.zomato.com/bangalore/delivery-in-electronic-city"
+    },
+    {
+        "id": 41,
+        "url": "https://www.zomato.com/bangalore/delivery-in-langford-town"
+    },
+    {
+        "id": 42,
+        "url": "https://www.zomato.com/bangalore/delivery-in-richmond-town"
+    },
+    {
+        "id": 43,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-5th-block"
+    },
+    {
+        "id": 44,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kanekallu"
+    },
+    {
+        "id": 45,
+        "url": "https://www.zomato.com/bangalore/delivery-in-itpl-main-road-whitefield"
+    },
+    {
+        "id": 46,
+        "url": "https://www.zomato.com/bangalore/delivery-in-domlur"
+    },
+    {
+        "id": 47,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-7th-block"
+    },
+    {
+        "id": 48,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kammanahalli"
+    },
+    {
+        "id": 49,
+        "url": "https://www.zomato.com/bangalore/delivery-in-magadi-road"
+    },
+    {
+        "id": 50,
+        "url": "https://www.zomato.com/bangalore/delivery-in-ramanagara"
+    },
+    {
+        "id": 51,
+        "url": "https://www.zomato.com/bangalore/delivery-in-jayanagar"
+    },
+    {
+        "id": 52,
+        "url": "https://www.zomato.com/bangalore/delivery-in-frazer-town"
+    },
+    {
+        "id": 53,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-6th-block"
+    },
+    {
+        "id": 54,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kalyan-nagar"
+    },
+    {
+        "id": 55,
+        "url": "https://www.zomato.com/bangalore/delivery-in-bannerghatta-road"
+    },
+    {
+        "id": 56,
+        "url": "https://www.zomato.com/bangalore/delivery-in-jakkur"
+    },
+    {
+        "id": 57,
+        "url": "https://www.zomato.com/bangalore/delivery-in-north"
+    },
+    {
+        "id": 58,
+        "url": "https://www.zomato.com/bangalore/delivery-in-basaveshwara-nagar"
+    },
+    {
+        "id": 59,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kengeri"
+    },
+    {
+        "id": 60,
+        "url": "https://www.zomato.com/bangalore/delivery-in-vasanth-nagar"
+    },
+    {
+        "id": 61,
+        "url": "https://www.zomato.com/bangalore/delivery-in-old-madras-road"
+    },
+    {
+        "id": 62,
+        "url": "https://www.zomato.com/bangalore/delivery-in-st-marks-road"
+    },
+    {
+        "id": 63,
+        "url": "https://www.zomato.com/bangalore/delivery-in-hennur"
+    },
+    {
+        "id": 64,
+        "url": "https://www.zomato.com/bangalore/delivery-in-church-street"
+    },
+    {
+        "id": 65,
+        "url": "https://www.zomato.com/bangalore/delivery-in-indiranagar"
+    },
+    {
+        "id": 66,
+        "url": "https://www.zomato.com/bangalore/delivery-in-city-market"
+    },
+    {
+        "id": 67,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kr-puram"
+    },
+    {
+        "id": 68,
+        "url": "https://www.zomato.com/bangalore/delivery-in-btm"
+    },
+    {
+        "id": 69,
+        "url": "https://www.zomato.com/bangalore/delivery-in-central"
+    },
+    {
+        "id": 70,
+        "url": "https://www.zomato.com/bangalore/delivery-in-ejipura"
+    },
+    {
+        "id": 71,
+        "url": "https://www.zomato.com/bangalore/delivery-in-hbr-layout"
+    },
+    {
+        "id": 72,
+        "url": "https://www.zomato.com/bangalore/delivery-in-infantry-road"
+    },
+    {
+        "id": 73,
+        "url": "https://www.zomato.com/bangalore/delivery-in-lavelle-road"
+    },
+    {
+        "id": 74,
+        "url": "https://www.zomato.com/bangalore/delivery-in-nagawara"
+    },
+    {
+        "id": 75,
+        "url": "https://www.zomato.com/bangalore/delivery-in-new-bel-road"
+    },
+    {
+        "id": 76,
+        "url": "https://www.zomato.com/bangalore/delivery-in-channasandra"
+    },
+    {
+        "id": 77,
+        "url": "https://www.zomato.com/bangalore/delivery-in-gandhi-nagar"
+    },
+    {
+        "id": 78,
+        "url": "https://www.zomato.com/bangalore/delivery-in-seshadripuram"
+    },
+    {
+        "id": 79,
+        "url": "https://www.zomato.com/bangalore/delivery-in-south"
+    },
+    {
+        "id": 80,
+        "url": "https://www.zomato.com/bangalore/delivery-in-cunningham-road"
+    },
+    {
+        "id": 81,
+        "url": "https://www.zomato.com/bangalore/delivery-in-commercial-street"
+    },
+    {
+        "id": 82,
+        "url": "https://www.zomato.com/bangalore/delivery-in-east"
+    },
+    {
+        "id": 83,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala"
+    },
+    {
+        "id": 84,
+        "url": "https://www.zomato.com/bangalore/delivery-in-vijayapura-town"
+    },
+    {
+        "id": 85,
+        "url": "https://www.zomato.com/bangalore/delivery-in-bommasandra"
+    },
+    {
+        "id": 86,
+        "url": "https://www.zomato.com/bangalore/delivery-in-hoskote"
+    },
+    {
+        "id": 87,
+        "url": "https://www.zomato.com/bangalore/delivery-in-shanti-nagar"
+    },
+    {
+        "id": 88,
+        "url": "https://www.zomato.com/bangalore/delivery-in-ulsoor"
+    },
+    {
+        "id": 89,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-3rd-block"
+    },
+    {
+        "id": 90,
+        "url": "https://www.zomato.com/bangalore/delivery-in-sadashiv-nagar"
+    },
+    {
+        "id": 91,
+        "url": "https://www.zomato.com/bangalore/delivery-in-seegehalli"
+    },
+    {
+        "id": 92,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kumaraswamy-layout"
+    },
+    {
+        "id": 93,
+        "url": "https://www.zomato.com/bangalore/delivery-in-bidaraguppe"
+    },
+    {
+        "id": 94,
+        "url": "https://www.zomato.com/bangalore/delivery-in-banashankari"
+    },
+    {
+        "id": 95,
+        "url": "https://www.zomato.com/bangalore/delivery-in-sanjay-nagar"
+    },
+    {
+        "id": 96,
+        "url": "https://www.zomato.com/bangalore/delivery-in-bellandur"
+    },
+    {
+        "id": 97,
+        "url": "https://www.zomato.com/bangalore/delivery-in-choodasandra"
+    },
+    {
+        "id": 98,
+        "url": "https://www.zomato.com/bangalore/delivery-in-chandapura"
+    },
+    {
+        "id": 99,
+        "url": "https://www.zomato.com/bangalore/delivery-in-kaggadasapura"
+    },
+    {
+        "id": 100,
+        "url": "https://www.zomato.com/bangalore/delivery-in-brigade-road"
+    },
+    {
+        "id": 101,
+        "url": "https://www.zomato.com/bangalore/delivery-in-chanapatna"
+    },
+    {
+        "id": 102,
+        "url": "https://www.zomato.com/bangalore/delivery-in-mg-road"
+    },
+    {
+        "id": 103,
+        "url": "https://www.zomato.com/bangalore/delivery-in-hesaraghatta"
+    },
+    {
+        "id": 104,
+        "url": "https://www.zomato.com/bangalore/delivery-in-residency-road"
+    },
+    {
+        "id": 105,
+        "url": "https://www.zomato.com/bangalore/delivery-in-malleshwaram"
+    },
+    {
+        "id": 106,
+        "url": "https://www.zomato.com/bangalore/delivery-in-rajajinagar"
+    },
+    {
+        "id": 107,
+        "url": "https://www.zomato.com/bangalore/delivery-in-uttarahalli"
+    },
+    {
+        "id": 108,
+        "url": "https://www.zomato.com/bangalore/delivery-in-sankey-road"
+    },
+    {
+        "id": 109,
+        "url": "https://www.zomato.com/bangalore/delivery-in-vijay-nagar"
+    },
+    {
+        "id": 110,
+        "url": "https://www.zomato.com/bangalore/delivery-in-yeshwantpur"
+    },
+    {
+        "id": 111,
+        "url": "https://www.zomato.com/bangalore/delivery-in-jp-nagar"
+    },
+    {
+        "id": 112,
+        "url": "https://www.zomato.com/bangalore/delivery-in-yelahanka"
+    },
+    {
+        "id": 113,
+        "url": "https://www.zomato.com/bangalore/delivery-in-koramangala-8th-block"
+    },
+    {
+        "id": 114,
+        "url": "https://www.zomato.com/bangalore/delivery-in-whitefield"
+    },
+    {
+        "id": 115,
+        "url": "https://www.zomato.com/bangalore/delivery-in-thippasandra"
+    },
+    {
+        "id": 116,
+        "url": "https://www.zomato.com/bangalore/delivery-in-rt-nagar"
+    },
+    {
+        "id": 117,
+        "url": "https://www.zomato.com/bangalore/delivery-in-bommanahalli"
+    },
+    {
+        "id": 118,
+        "url": "https://www.zomato.com/bangalore/delivery-in-mahadevapura"
+    }
+]
