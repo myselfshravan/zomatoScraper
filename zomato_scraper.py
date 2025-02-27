@@ -152,6 +152,24 @@ class ZomatoScraper:
         except KeyboardInterrupt:
             self.logger.info("Real-time monitoring stopped by user.")
 
+    def extract_phone_number(self):
+        """
+        Extracts the phone number from the current page.
+        :return: Phone number string or None if not found.
+        """
+        phone_number = None
+        try:
+            # Look for anchor tag with tel: attribute
+            phone_element = self.driver.find_element(By.CSS_SELECTOR, "a[href^='tel:']")
+            # Extract the number from href attribute
+            href = phone_element.get_attribute('href')
+            if href:
+                # Remove 'tel:' prefix to get the raw number
+                phone_number = href.replace('tel:', '')
+        except Exception as e:
+            self.logger.error(f"Error extracting phone number: {e}")
+        return phone_number
+
 
 def main():
     logging.basicConfig(
